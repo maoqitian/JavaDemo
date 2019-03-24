@@ -35,6 +35,7 @@
 *.iml
 .gradle
 .idea
+out
 /local.properties
 /.idea/libraries
 /.idea/modules.xml
